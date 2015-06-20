@@ -1,5 +1,5 @@
 #dat.GUI
-This is a clone of the original google code repository
+**This is a clone of the original google code repository. I did not write any of this project**
 
 A lightweight graphical user interface for changing variables in JavaScript. 
 
