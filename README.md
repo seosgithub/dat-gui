@@ -1,4 +1,6 @@
 #dat.GUI
+This is a clone of the original google code repository
+
 A lightweight graphical user interface for changing variables in JavaScript. 
 
 Get started with dat.GUI by reading the tutorial at http://workshop.chromeexperiments.com/examples/gui.
